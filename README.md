@@ -17,6 +17,11 @@ Au cours du jeu, il y a des interrupteurs à actionner : la touche d'interractio
 **Bonus :** 
 Niveau avec modification de l’ambiance lumineuse en fonction du temps
 
+<div>
+  <img src="https://raw.githubusercontent.com/corentin703/The-Interview/master/ReadMe/Sceenshot1.png" alt="Screenshot1"/>
+  <img src="https://raw.githubusercontent.com/corentin703/The-Interview/master/ReadMe/Sceenshot2.png" alt="Screenshot2"/>
+</div>
+
 
 ### Projet fait par : 
 - [Cléry CHASSAGNON](https://github.com/Tunderping)
