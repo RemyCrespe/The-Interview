@@ -25,6 +25,6 @@ Niveau avec modification de l’ambiance lumineuse en fonction du temps
 
 ### Projet fait par : 
 - [Cléry CHASSAGNON](https://github.com/Tunderping)
-- [Rémy CRESPE](https://github.com/LamiRemy)
+- [Rémy CRESPE](https://github.com/RemyCrespe)
 - [Mickaël DAUPHIN](https://github.com/mickou43)
 - [Corentin VÉROT](https://github.com/corentin703)
